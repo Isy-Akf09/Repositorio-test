@@ -9,3 +9,8 @@ Tutorial simples e inicial sobre a linguagem dart
 
 Vanos começar com a ideia de linguagem C, A linguagem Dart é igual a linguagem C
 Assim que você abre o editor você já percebe uma igualdade antre essas linguagens:
+
+<div>
+  <img src="https://miro.medium.com/v2/resize:fit:787/1*8m7x7X-SFLKXhpCDPVTtkw.png"/>
+</div>
+
